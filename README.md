@@ -8,4 +8,4 @@ He can filter the products by size as well as by the color he wants.
 
 You can customize this project’s animation as well as logic as per requirement.
 
-It’s one of the major projects you can use for your personal use as well as to present in your college.
+
